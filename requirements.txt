@@ -1,8 +1,4 @@
 streamlit
 pandas
 plotly
-# requirements.txt
-
-streamlit
-pandas
 matplotlib
